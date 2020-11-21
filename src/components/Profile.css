@@ -1,0 +1,17 @@
+.ui-primary-button{
+
+    background-color: transparent;
+    color: #fff;
+    padding: 8px 20px;
+    border: 1px solid var(--primary);
+    transition: all 0.3s ease-out;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.small-image{
+    border-image-width: 10px;
+}
+.name-text{
+    font-size: x-large;
+}

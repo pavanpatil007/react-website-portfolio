@@ -1,0 +1,17 @@
+.yt-video{
+
+    object-fit: contain;
+    width: 30%;
+    height: 30%;
+    position: fixed;
+
+}
+
+.play-btn{
+    background-color: var(--primary);
+    color: #242424;
+    border: 1px solid var(--primary);
+    text-decoration: none;
+    padding: 8px 20px;
+    margin: 5px;
+}
